@@ -1,5 +1,6 @@
 [app]
-
+android.accept_sdk_license = True
+p4a.branch = master
 title = Dark Calculator
 package.name = darkcalculator
 package.domain = org.danyal
